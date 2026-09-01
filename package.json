@@ -15,8 +15,6 @@
     "seed": "tsx prisma/seed.ts"
   },
   "dependencies": {
-  "next": "..."
-}
     "@prisma/client": "^5.22.0",
     "@stripe/stripe-js": "^9.0.1",
     "lucide-react": "^1.7.0",
